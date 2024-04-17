@@ -496,7 +496,7 @@ class DataDirectories(FeatureType):
 class PEFeatureExtractor(object):
     ''' Extract useful features from a PE file, and return as a vector of fixed size. '''
 
-    def __init__(self, feature_version=2, print_feature_warning=True, features_file=''):
+    def __init__(self, feature_version=2, print_feature_warning=False, features_file=''):
         self.features = []
         features = {
                     'ByteHistogram': ByteHistogram(),
