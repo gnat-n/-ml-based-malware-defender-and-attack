@@ -1,0 +1,17 @@
+Performance of the model with standard predictions
+-------------------------------------------------------
+Accuracy: 0.991263440860215
+Recall/TPR: 0.9966567607726597
+Precision: 0.9937037037037038
+F1 score: 0.9951780415430267
+FPR: 0.05985915492957746
+FNR: 0.0033432392273402673
+
+Performance of the model with threshold predictions
+-------------------------------------------------------
+Accuracy: 0.9828629032258065
+Recall/TPR: 0.99962852897474
+Precision: 0.9817584823057278
+F1 score: 0.9906129210381005
+FPR: 0.176056338028169
+FNR: 0.0003714710252600297

@@ -1,0 +1,120 @@
+Performance of the model with gw1: standard predictions
+-------------------------------------------------------
+Accuracy: 0.7272727272727273
+/Users/dylannguyen/anaconda3/envs/csce689-mlcyber/lib/python3.12/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 due to no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Recall/TPR: 0.0
+Precision: 0.0
+F1 score: 0.0
+
+Performance of the model with gw2: standard predictions
+-------------------------------------------------------
+Accuracy: 0.7058823529411765
+/Users/dylannguyen/anaconda3/envs/csce689-mlcyber/lib/python3.12/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 due to no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Recall/TPR: 0.0
+Precision: 0.0
+F1 score: 0.0
+
+Performance of the model with gw3: standard predictions
+-------------------------------------------------------
+Accuracy: 0.8245614035087719
+/Users/dylannguyen/anaconda3/envs/csce689-mlcyber/lib/python3.12/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 due to no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Recall/TPR: 0.0
+Precision: 0.0
+F1 score: 0.0
+
+Performance of the model with gw4: standard predictions
+-------------------------------------------------------
+Accuracy: 0.6530612244897959
+/Users/dylannguyen/anaconda3/envs/csce689-mlcyber/lib/python3.12/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 due to no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Recall/TPR: 0.0
+Precision: 0.0
+F1 score: 0.0
+
+Performance of the model with gw5: standard predictions
+-------------------------------------------------------
+Accuracy: 0.7671232876712328
+/Users/dylannguyen/anaconda3/envs/csce689-mlcyber/lib/python3.12/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 due to no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Recall/TPR: 0.0
+Precision: 0.0
+F1 score: 0.0
+
+Performance of the model with gw6: standard predictions
+-------------------------------------------------------
+Accuracy: 0.975609756097561
+/Users/dylannguyen/anaconda3/envs/csce689-mlcyber/lib/python3.12/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 due to no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Recall/TPR: 0.0
+Precision: 0.0
+F1 score: 0.0
+
+Performance of the model with gw6: standard predictions
+-------------------------------------------------------
+Accuracy: 0.975609756097561
+/Users/dylannguyen/anaconda3/envs/csce689-mlcyber/lib/python3.12/site-packages/sklearn/metrics/_classification.py:1509: UndefinedMetricWarning: Recall is ill-defined and being set to 0.0 due to no true samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, f"{metric.capitalize()} is", len(result))
+Recall/TPR: 0.0
+Precision: 0.0
+F1 score: 0.0
+
+
+
+Performance of the model with mw1: standard predictions
+-------------------------------------------------------
+Accuracy: 0.625
+Recall/TPR: 0.625
+Precision: 1.0
+F1 score: 0.7692307692307693
+
+Performance of the model with mw2: standard predictions
+-------------------------------------------------------
+Accuracy: 0.96
+Recall/TPR: 0.96
+Precision: 1.0
+F1 score: 0.9795918367346939
+
+Performance of the model with mw3: standard predictions
+-------------------------------------------------------
+Accuracy: 0.7333333333333333
+Recall/TPR: 0.7333333333333333
+Precision: 1.0
+F1 score: 0.8461538461538461
+
+Performance of the model with mw4: standard predictions
+-------------------------------------------------------
+Accuracy: 0.7241379310344828
+Recall/TPR: 0.7241379310344828
+Precision: 1.0
+F1 score: 0.84
+
+Performance of the model with mw5: standard predictions
+-------------------------------------------------------
+Accuracy: 0.6206896551724138
+Recall/TPR: 0.6206896551724138
+Precision: 1.0
+F1 score: 0.7659574468085106
+
+Performance of the model with mw6: standard predictions
+-------------------------------------------------------
+Accuracy: 0.6206896551724138
+Recall/TPR: 0.6206896551724138
+Precision: 1.0
+F1 score: 0.7659574468085106
+
+Performance of the model with mw7: standard predictions
+-------------------------------------------------------
+Accuracy: 0.66
+Recall/TPR: 0.66
+Precision: 1.0
+F1 score: 0.7951807228915663
+
+Performance of the model with mw8: standard predictions
+-------------------------------------------------------
+Accuracy: 0.74
+Recall/TPR: 0.74
+Precision: 1.0
+F1 score: 0.8505747126436781

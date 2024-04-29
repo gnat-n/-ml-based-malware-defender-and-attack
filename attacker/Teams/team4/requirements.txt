@@ -1,0 +1,13 @@
+requests
+tqdm
+pandas
+matplotlib
+pefile
+ipykernel
+scikit-learn
+beautifulsoup4
+tensorflow
+yara-python
+flask
+gevent
+lief

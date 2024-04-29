@@ -1,0 +1,9 @@
+flask
+python-dotenv
+scikit-learn
+joblib
+pandas
+torch
+torchvision
+matplotlib
+xgboost
