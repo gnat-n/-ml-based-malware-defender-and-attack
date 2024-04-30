@@ -1,0 +1,8 @@
+requests
+pandas
+pefile
+scikit-learn
+yara-python
+flask
+gevent
+lief

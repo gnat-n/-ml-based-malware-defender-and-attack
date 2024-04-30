@@ -1,0 +1,12 @@
+# pip install git+https://github.com/endgameinc/ember.git
+flask>=1.1.2
+gevent>=1.4.0
+envparse
+annoy
+numpy==1.25.2
+tqdm
+lief==0.14.1
+pandas
+scipy==1.11.4
+scikit-learn==1.2.2
+joblib==1.4.0
